@@ -45,7 +45,7 @@
 ```
 
 ```REXX
- don't stress on thing more than another
+ don't stress one thing more than another
 ```
 
 ```RobotFramework
